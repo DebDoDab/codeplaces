@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['vadi.tel', 'localhost', '127.0.0.1', '127.0.0.0']
 # Application definition
 
 INSTALLED_APPS = [
-    'codestats.apps.CodestatsConfig'
+    #'codestats.apps.CodestatsConfig'
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
